@@ -32,3 +32,6 @@ git init: comando usado para configuração inicial de um novo repositório. Qua
 
 #### 6 -  O que é o HTTP? 
 Hypertext Transfer Protocol: é um protocolo que se pode obter recursos HTML, onde é considerado a base de comunicação entre dispositivos em rede
+
+#### 7 - Como funciona o HTTP? 
+as requisições são iniciadas pelo cliente (cliente-servidor) onde se utiliza de forma mais comum um navegador web, um documento é construído a partir de vários fragmentos de documentos obtidos
