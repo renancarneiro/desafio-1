@@ -41,3 +41,6 @@ git add <arquivo> ou git add *
 
 #### 9 - O que é a Branch master e para que serve? 
 ao criar um repositório a branch master é automaticamente iniciada, é a parte principal do seu projeto, equivalente ao tronco de uma árvore, as próximas branches são secundárias, ou seja, ramos da branch master
+
+#### 10 - Quais são os comandos usados para atualizar um repositório local e fazer merge de um outro branch ao seu branch ativo? 
+git pull e git merge feature_n
