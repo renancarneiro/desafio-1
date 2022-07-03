@@ -54,3 +54,8 @@ POST: é mais utilizado para enviar informações, criar algum produto/cliente
 
 #### 13 - Qual o status code que pode ser usado na criação de um novo usuário? 
 201 Created
+
+#### 14 - Quais são os três status code que podem ser utilizados para realizar o delete? 
+200 (OK) 
+202 (Aceito) 
+204 (Sem Conteúdo) 
