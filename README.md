@@ -11,3 +11,11 @@ Primeiro desafio do programa de bolsas #QueComecemOsJogos
 
 #### 1 - Para que serve o método Scrum? 
 É um framework para gerenciar projetos, utilizado principalmente no desenvolvimento de softwares, mas podendo ser aplicado a vários tipos de trabalhos em equipe, desde a etapa de organização ao desenvolvimento ágil a trabalhos complexos
+
+#### 2 - Como funciona o método Scrum? 
+Funciona com ciclos de produção e avaliação com objetivo de aperfeiçoar um produto ao longo do desenvolvimento e fase de produção.
+
+Ao final de cada de cada iteração, é entregue uma modelo simples do produto final, com esse modelo o cliente dá um feedback, com aprovação ou melhorias solicitadas.
+O método segue basicamente esse modelo: 
+
+Sprint Planning Meeting > Daily Scrum > Sprint Review Meeting > Sprint Retrospective
