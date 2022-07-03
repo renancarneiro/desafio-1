@@ -44,3 +44,6 @@ ao criar um repositório a branch master é automaticamente iniciada, é a parte
 
 #### 10 - Quais são os comandos usados para atualizar um repositório local e fazer merge de um outro branch ao seu branch ativo? 
 git pull e git merge feature_n
+
+#### 11 - Qual a diferença entre git e github? 
+git é resumidamente um software de controle de versão, quanto o github é uma plataforma de compartilhamento de projetos, quase como uma rede social para desenvolvedor
