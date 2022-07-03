@@ -26,3 +26,6 @@ Sprint Planning Meeting > Daily Scrum > Sprint Review Meeting > Sprint Retrospec
 #### 4 -  O que é um scrum Product Owner? 
 É o dono do produto, conhece o que o cliente espera como resultado, define os recursos e dita os passos para chegar ao objetivo. 
 Como é um representante do cliente, orienta o time e controla o Product Backlog
+
+#### 5 - Qual o comando para criação de um novo repositório no Git?
+git init: comando usado para configuração inicial de um novo repositório. Quando executado cria um subdiretório .git no diretório atual
