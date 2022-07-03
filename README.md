@@ -38,3 +38,6 @@ as requisições são iniciadas pelo cliente (cliente-servidor) onde se utiliza 
 
 #### 8 - Com o Git Você pode propor mudanças (adicioná-las ao Index) usando um comando. Qual é esse comando? 
 git add <arquivo> ou git add * 
+
+#### 9 - O que é a Branch master e para que serve? 
+ao criar um repositório a branch master é automaticamente iniciada, é a parte principal do seu projeto, equivalente ao tronco de uma árvore, as próximas branches são secundárias, ou seja, ramos da branch master
