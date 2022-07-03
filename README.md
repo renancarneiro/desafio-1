@@ -22,3 +22,7 @@ Sprint Planning Meeting > Daily Scrum > Sprint Review Meeting > Sprint Retrospec
 
 #### 3 -  O que é Git? 
 É um sistema de controle de versões de código aberto desenvolvido por Linus Torvalds, permite visualizar o código das pessoas que estejam trabalhando em um projeto em conjunto, mostra as modificações realizadas e o histórico. Além de poder voltar às versões anteriores caso queira.
+
+#### 4 -  O que é um scrum Product Owner? 
+É o dono do produto, conhece o que o cliente espera como resultado, define os recursos e dita os passos para chegar ao objetivo. 
+Como é um representante do cliente, orienta o time e controla o Product Backlog
