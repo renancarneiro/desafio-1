@@ -29,3 +29,6 @@ Como é um representante do cliente, orienta o time e controla o Product Backlog
 
 #### 5 - Qual o comando para criação de um novo repositório no Git?
 git init: comando usado para configuração inicial de um novo repositório. Quando executado cria um subdiretório .git no diretório atual
+
+#### 6 -  O que é o HTTP? 
+Hypertext Transfer Protocol: é um protocolo que se pode obter recursos HTML, onde é considerado a base de comunicação entre dispositivos em rede
