@@ -19,3 +19,6 @@ Ao final de cada de cada iteração, é entregue uma modelo simples do produto f
 O método segue basicamente esse modelo: 
 
 Sprint Planning Meeting > Daily Scrum > Sprint Review Meeting > Sprint Retrospective
+
+#### 3 -  O que é Git? 
+É um sistema de controle de versões de código aberto desenvolvido por Linus Torvalds, permite visualizar o código das pessoas que estejam trabalhando em um projeto em conjunto, mostra as modificações realizadas e o histórico. Além de poder voltar às versões anteriores caso queira.
