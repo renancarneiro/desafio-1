@@ -59,3 +59,7 @@ POST: é mais utilizado para enviar informações, criar algum produto/cliente
 200 (OK) 
 202 (Aceito) 
 204 (Sem Conteúdo) 
+
+#### 15 - Exemplifique para que serve os metódos http 1xx, 2xx, 3xx, 4xx e 5xx. De uma forma macro (geral)! 
+São as várias respostas que um servidor pode dar ao acessar uma página web, o HTTP responde se obteve sucesso ou se há algum erro na página.
+Dessa forma, as classes de status são as respostas para as solicitações
