@@ -35,3 +35,6 @@ Hypertext Transfer Protocol: é um protocolo que se pode obter recursos HTML, on
 
 #### 7 - Como funciona o HTTP? 
 as requisições são iniciadas pelo cliente (cliente-servidor) onde se utiliza de forma mais comum um navegador web, um documento é construído a partir de vários fragmentos de documentos obtidos
+
+#### 8 - Com o Git Você pode propor mudanças (adicioná-las ao Index) usando um comando. Qual é esse comando? 
+git add <arquivo> ou git add * 
