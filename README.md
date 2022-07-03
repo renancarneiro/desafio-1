@@ -51,3 +51,6 @@ git é resumidamente um software de controle de versão, quanto o github é uma 
 #### 12 - Quais os dois verbos http que podemos utilizar para realizar um update? Explique a diferença entre eles. 
 GET: é mais utilizado para obter dados, listagem e busca de produtos por exemplo
 POST: é mais utilizado para enviar informações, criar algum produto/cliente
+
+#### 13 - Qual o status code que pode ser usado na criação de um novo usuário? 
+201 Created
