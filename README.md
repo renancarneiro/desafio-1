@@ -63,3 +63,10 @@ POST: é mais utilizado para enviar informações, criar algum produto/cliente
 #### 15 - Exemplifique para que serve os metódos http 1xx, 2xx, 3xx, 4xx e 5xx. De uma forma macro (geral)! 
 São as várias respostas que um servidor pode dar ao acessar uma página web, o HTTP responde se obteve sucesso ou se há algum erro na página.
 Dessa forma, as classes de status são as respostas para as solicitações
+
+#### 16 - Conta pra gente como foi sua experiência na Sprint#01 do programa de bolsa @node.js_mar22 e quais suas expectativas a partir de agora: 
+Está sendo incrível, desde a plataforma alura ao time que compõem os instrutores e até mesmo os bolsistas, muito aprendizado e gratidão a oportunidade.
+
+Nesse primeiro Sprint pude rever diversos conceitos e aprender novos que ainda não conhecia
+
+Estou com uma expectativa grande com os desafios que vem a frente, com foco em desenvolver minhas habilidades e adquirir experiência para poder seguir carreira como desenvolvedor backend na Compasso 
