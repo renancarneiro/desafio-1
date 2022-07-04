@@ -7,7 +7,7 @@ Primeiro desafio do programa de bolsas #QueComecemOsJogos
 ## 🔗 Autor
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renancc)
 
-## PERGUNTAS E REPOSTAS
+## PERGUNTAS E RESPOSTAS
 
 #### 1 - Para que serve o método Scrum? 
 É um framework para gerenciar projetos, utilizado principalmente no desenvolvimento de softwares, mas podendo ser aplicado a vários tipos de trabalhos em equipe, desde a etapa de organização ao desenvolvimento ágil a trabalhos complexos
